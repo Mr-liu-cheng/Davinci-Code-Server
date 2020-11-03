@@ -1,0 +1,75 @@
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.dll
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\2019\网络游戏\ConsoleApp1\ConsoleApp1\bin\Debug\Google.Protobuf.dll
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\bin\Debug\Google.Protobuf.dll
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\网络游戏编程\wangluo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\Google.Protobuf.dll
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\下载\服务器\新建文件夹\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hoolai\Desktop\达芬奇密码\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\12171\Desktop\BackUp20.1.22\dafen\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\686\Desktop\达芬奇密码\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\686\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\DaVinci Code\服务器\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
